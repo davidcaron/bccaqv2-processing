@@ -4,7 +4,7 @@ from pathlib import Path
 import click
 import xarray as xr
 
-chunks = {"chunksizes": [64, 16, 16]}
+chunks = {"chunksizes": [256, 16, 16]}
 
 print("started")
 
