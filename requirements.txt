@@ -1,0 +1,5 @@
+xarray>=0.12
+click
+netCDF4
+dask
+toolz
