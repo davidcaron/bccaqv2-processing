@@ -1,0 +1,9 @@
+name: bccaqv2-processing
+channels:
+- conda-forge
+- defaults
+dependencies:
+- xarray>=0.12
+- click
+- netcdf4
+- dask
